@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kajalkumari23)
  
-# Hello Guy!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+#             Hello Guys!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
 I'm a Software Engineer. Currently working in Game Industry, focus on Backend service, Unreal Engine, Machine Learning ... Never stop exploring and learning new tech stack!
 <br/>
@@ -83,13 +83,13 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
  
 <p align="center">
  
-[![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalkumari23&count_private=true&show_icons=true&theme=radical)](https://github.com/kajalkumari23)
+[![Zhao-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhao-jin&count_private=true&show_icons=true&theme=radical)](https://github.com/zhao-jin)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkumari23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=kajalkumari23&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhao-jin&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kajalkumari23&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zhao-jin&theme=dark)
  
 <!--  # Productivity Stats📈: -->
 <table>
