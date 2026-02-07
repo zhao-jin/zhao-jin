@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kajalkumari23)
  
-# Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+# Hello Guy!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I'm a Software Engineer. Currently working in Game Industry, focus on Backend service, Unreal Engine, Machine Learning ..., . Never stop exploring and learning new tech stack!
+I'm a Software Engineer. Currently working in Game Industry, focus on Backend service, Unreal Engine, Machine Learning ... Never stop exploring and learning new tech stack!
 <br/>
 <br/>
 <p align="center">
@@ -13,13 +13,13 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  🔭 &nbsp; I’m currently working on Game/Backend Development using C++/Go/Python/Lua etc.
+✔  🔭 &nbsp; I’m currently working on Game/Backend Development using C++/Go/Python/Lua etc.<br>
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
+✔  💬 Ask me about Game Development, Server Backend Architecture & Engineering <br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](zhaochief@gmail.com)<br>
-✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
-✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
-✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
+✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://mileszhao.com),If I am alive I will answer within seconds 😉<br>
+✔  📚 &nbsp; When I am free, I love hike and climb mountain.<br>
+✔  ⚡  &nbsp; Fun fact: I started investing after watching scam 1992.😉
 <br>
 
 <!-- contact me -->
