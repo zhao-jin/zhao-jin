@@ -105,25 +105,20 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
    </tr>
 </table>
 
- <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{zhao-jin}/count.svg">
   
- ![VisitorCount](https://profile-counter.glitch.me/{zhao-jin}/count.svg)  
+ ![VisitorCount](https://profile-counter.deno.dev/:zhao-jin:/count.svg)  
   
 </a>
 
 
  
  <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
 </div>
  
-<p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p >🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ by Kajal</p>
-
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
