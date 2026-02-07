@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=zhao-jin)
  
-#             Hello Guys!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+# Hey there :wave: <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
 I'm a Software Engineer. Currently working in Game Industry, focus on Backend service, Unreal Engine, Machine Learning ... Never stop exploring and learning new tech stack!
 <br/>
