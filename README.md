@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=kajalkumari23)
+![Profile Views](https://komarev.com/ghpvc/?username=zhao-jin)
  
 #             Hello Guys!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
@@ -36,7 +36,7 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
       <a href="https://fb.com/kajalkumari23" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:kajalkumari2303@gmail.com" target="blank"><img align="center"
+      <a href="mailto:zhaochief@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
@@ -94,7 +94,7 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
 <!--  # Productivity Stats📈: -->
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalkumari23&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhao-jin&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
  </p>
@@ -104,7 +104,7 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
  <br>
  
  <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{zhao-jin}/count.svg">
   
  ![VisitorCount](https://profile-counter.glitch.me/{}/count.svg)  
   
