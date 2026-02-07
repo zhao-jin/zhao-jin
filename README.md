@@ -6,14 +6,14 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
 <br/>
 <br/>
 <p align="center">
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "In Math We Trust!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  🔭 &nbsp; I’m currently working on Web Development using C++/Go/Python/Lua etc.
+✔  🔭 &nbsp; I’m currently working on Game/Backend Development using C++/Go/Python/Lua etc.
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](zhaochief@gmail.com)<br>
@@ -58,10 +58,10 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
  <div>
  <samp>
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cpp.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/lua.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/go.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="vertical-align:top; margin:4px">
