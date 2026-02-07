@@ -58,8 +58,12 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
  <div>
  <samp>
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cpp.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/lua.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-C-F7DF1E?style=flat-square&logo=C&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" height="25"> 
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue" height="25"> 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/go.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
