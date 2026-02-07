@@ -13,8 +13,8 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  🔭 &nbsp; I’m currently working on Game/Backend Development using C++/Go/Python/Lua etc.<br>
-✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
+✔  🔭 &nbsp; I’m currently working on Game/Backend Development.<br>
+✔  🤝 &nbsp;  I’m looking to using on AI agents.<br>
 ✔  💬 Ask me about Game Development, Server Backend Architecture & Engineering <br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](zhaochief@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://mileszhao.com),If I am alive I will answer within seconds 😉<br>
