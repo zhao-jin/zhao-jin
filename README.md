@@ -89,6 +89,7 @@ I'm a Software Engineer. Currently working in Game Industry, focus on Backend se
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhao-jin&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhao-jin&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zhao-jin&theme=dark)
  
 <!--  # Productivity Stats📈: -->
